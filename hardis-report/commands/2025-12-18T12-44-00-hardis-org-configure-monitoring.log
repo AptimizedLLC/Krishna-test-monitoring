@@ -1,0 +1,25 @@
+hardis:org:configure:monitoring 
+[sfdx-hardis][command] sf org display --json
+[sfdx-hardis] You are already connected as kkumar@aptimized.com.prod.surgicals on org https://allianceortho--surgicals.sandbox.my.salesforce.com (apiVersion 65.0)
+[sfdx-hardis] If this is NOT the org you want to play with, hit CTRL+C, then input sf hardis:org:select
+[sfdx-hardis] Updated config file config/user/.sfdx-hardis.krish.yml with values: 
+{
+  "installedApps": [
+    "openssl"
+  ]
+}
+[sfdx-hardis] Defined "false" as git core.quotepath.
+[sfdx-hardis][command] git config --null --show-origin --get-all remote.origin.url
+[sfdx-hardis] Monitoring pre-requisites documentation: https://sfdx-hardis.cloudity.com/salesforce-monitoring-config-home/#instructions
+[sfdx-hardis] 🦙 Did you configure the sfdx-hardis monitoring pre-requisites on your Git server ? Look up in VS Code ⬆️.
+[sfdx-hardis] Updated config file C:\Users\krish\Downloads\Programs\AllianceSFDC\test2\Krishna-test-monitoring\config\user\.sfdx-hardis.krish.yml with values: 
+{
+  "installedApps": [
+    "git"
+  ]
+}
+[sfdx-hardis] Defined VS Code as git merge tool.
+[sfdx-hardis] Defined VS Code as git diff tool.
+[sfdx-hardis] No, help me !
+[sfdx-hardis] Please follow the instructions to configure the sfdx-hardis monitoring pre-requisites on your Git server
+https://sfdx-hardis.cloudity.com/salesforce-monitoring-config-home/#instructions
